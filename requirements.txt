@@ -1,0 +1,12 @@
+
+langchain
+llama-index
+python-dotenv
+openai
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-community
+langchain_openai
